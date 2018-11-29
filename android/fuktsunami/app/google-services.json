@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "142821876914",
+    "firebase_url": "https://iothud.firebaseio.com",
+    "project_id": "iothud",
+    "storage_bucket": "iothud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142821876914:android:94aaa5119ee3054d",
+        "android_client_info": {
+          "package_name": "devfest.tnp.fuktsunami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142821876914-nsus0q1i09a68m9l36nngqr5655oq0q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devfest.tnp.fuktsunami",
+            "certificate_hash": "b7aea316b62c5726117062fd61471c3e47468295"
+          }
+        },
+        {
+          "client_id": "142821876914-eh4l8p6tlg8etk6mdrkot93344e1ss3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5GQTj0tm_janMfgmG_omrZgWF_ZV0mc"
+        },
+        {
+          "current_key": "AIzaSyCVLB6zTHwsz8xWP8uqslUm9mQwBuvh-Ho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142821876914-eh4l8p6tlg8etk6mdrkot93344e1ss3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142821876914:android:81572d2db61bb8b0",
+        "android_client_info": {
+          "package_name": "tnp.code.wavetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142821876914-q2a4cbabd8kprui4d7gbtm3ftr0cvj09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tnp.code.wavetracking",
+            "certificate_hash": "b7aea316b62c5726117062fd61471c3e47468295"
+          }
+        },
+        {
+          "client_id": "142821876914-eh4l8p6tlg8etk6mdrkot93344e1ss3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5GQTj0tm_janMfgmG_omrZgWF_ZV0mc"
+        },
+        {
+          "current_key": "AIzaSyCVLB6zTHwsz8xWP8uqslUm9mQwBuvh-Ho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142821876914-eh4l8p6tlg8etk6mdrkot93344e1ss3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
